@@ -14,7 +14,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author muzu, just kidding.
+ * @author muzu, stop committing because you're testing!
  */
 public class Conn {
     
