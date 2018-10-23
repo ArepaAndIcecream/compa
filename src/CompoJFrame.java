@@ -1,4 +1,4 @@
-package compa;
+
 
 
 import java.io.FileNotFoundException;

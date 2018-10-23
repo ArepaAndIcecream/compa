@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package compa;
+
 
 import java.sql.Statement;
 
@@ -14,7 +14,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author muzu, stop committing because you're testing!
+ * @author muzu
  */
 public class Conn {
     
